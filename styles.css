@@ -1,0 +1,13 @@
+li {
+    float: left;
+    text-decoration: none;
+}
+
+.topnavbar a {
+text-decoration: none;
+font-size: 2rem;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+padding: 40px;
+}
+
+
